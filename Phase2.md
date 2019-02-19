@@ -5,3 +5,14 @@ The sketch of my original structure can be found here:
 [MDMA Project Outline](https://wilson-mui.github.io/viz-portfolio/final_project_Wilson_Mui)
 
 # Shorthand
+In Shorthand I've begun to create the general narrative arc and sections for my project. It begins with
+(1) Introducing MDMDA and addressing the biases and prejudices
+(2) Interactive Timeline of the work MAPS has been doing for 30 years
+(3) Current state of research, and the results in pie charts and bar charts
+(4) Map of where phase III trials are currently running (where Phase II trials were)
+(5) Expanded Access - This treatment can be brough to Pittsburgh NOW, through FDA's "Expanded Access Protocol"
+(6) Why - We have a population here that needs it (Veterans)
+(7) Video clip of phase II participants
+(8) Information and email signup
+
+[Shorthand Framework](https://carnegiemellon.shorthandstories.com/wilsonmui/index.html)
