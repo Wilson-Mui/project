@@ -5,16 +5,17 @@
 [Part 2](https://wilson-mui.github.io/project/Phase2)
 
 # Part 3
-My intended audience is somebody local to Pittsburgh because I want to inform people who can make change in this city. Namely people interested in supporting MDMA clinics in city. I think to get that successfully implemented in this city, advocates of this program must align with groups that resonate with this community. That includes the veterans community.
+### Audience
+* My intended audience is somebody local to Pittsburgh because I want to inform people who can make change in this city. Namely people interested in supporting MDMA clinics in city. I think to get that successfully implemented in this city, advocates of this program must align with groups that resonate with this community. That includes the veterans community.
 
-Not only is that a population that can benefit from this treatment, they are a powerful and often identified group in the region. Because of that I made a choice of some military imagery, namely to emphasize the veterans component to my narrative. I was conscientious about not making it solely about veterans however, which is why my last 'image-transition-slide' had non-miltary images to emphasize the treatment should be for everyone.
+* Not only is that a population that can benefit from this treatment, they are a powerful and often identified group in the region. Because of that I made a choice of some military imagery, namely to emphasize the veterans component to my narrative. I was conscientious about not making it solely about veterans however, which is why my last 'image-transition-slide' had non-miltary images to emphasize the treatment should be for everyone.
 
 ### Design Changes
-I made quite a bit of changes to my original design upon evaluation. I removed the map component all together because I didn't feel it was adding much to the story, nor was it useful for the audience living in Pittsburgh. I also compressed the veterans bar chart, along with some facts on an infographic. It made it a bit more information dense, but I think it works both aesthetically and informationally. I also added a call out to further emphasize Pennsylvania's rank in veteran suicides.
+* I made quite a bit of changes to my original design upon evaluation. I removed the map component all together because I didn't feel it was adding much to the story, nor was it useful for the audience living in Pittsburgh. I also compressed the veterans bar chart, along with some facts on an infographic. It made it a bit more information dense, but I think it works both aesthetically and informationally. I also added a call out to further emphasize Pennsylvania's rank in veteran suicides.
 
-I made the timeline more consistent in color, which was one of the comments from my feedback.
+* I made the timeline more consistent in color, which was one of the comments from my feedback.
 
-One of the temptations of using a new tool is using all the different options. I found myself wanting to use a lot of different slide templates for my Shorthand story, but I think having a handful of consistent templates made the structure more predictable and the story easier to compartmentalize in your head.
+* One of the temptations of using a new tool is using all the different options. I found myself wanting to use a lot of different slide templates for my Shorthand story, but I think having a handful of consistent templates made the structure more predictable and the story easier to compartmentalize in your head.
 
 ### Lessons/Take-aways
 * One of the things I learned in this course and this process was the amount of DIY tools out there for building very professional looking charts, infographics and visualizations. I think much like you-don't-know-what-you-don't-know, now I realize there are probably a tool for almost anything I want to do (to some limited extent) adn I can google it.
